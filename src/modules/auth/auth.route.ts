@@ -5,4 +5,4 @@ const router = Router()
 
 
 
-export const ProjectRoute = router;
+export const AuthRoute = router;
